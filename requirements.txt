@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pickle5
+scikit-learn
+numpy
+streamlit
+streamlit-option-menu
+json
+requests
