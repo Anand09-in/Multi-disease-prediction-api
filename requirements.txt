@@ -1,8 +1,8 @@
-from fastapi import FastAPI
+fastapi import 
 uvicorn
 pydantic
 pickle5
-scikit-learn
+
 numpy
 gunicorn
 
