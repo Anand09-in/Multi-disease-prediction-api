@@ -1,4 +1,4 @@
-fastapi
+from fastapi import FastAPI
 uvicorn
 pydantic
 pickle5
