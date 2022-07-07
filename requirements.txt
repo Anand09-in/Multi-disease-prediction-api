@@ -1,7 +1,7 @@
 fastapi 
 uvicorn
 pydantic
-pickle
+pickle5
 
 numpy
 gunicorn
